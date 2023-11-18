@@ -7,6 +7,7 @@
 	- [Introducing MORCs](#introducing-morcs)
 	- [Why MORCs?](#why-morcs)
 - [Vault Structure](#vault-structure)
+- [Templates](#templates)
 - [Usage](#usage)
 - [Examples](#Examples)
 	- [List of note examples](#list-of-note-examples)
@@ -47,6 +48,13 @@ This template organizes information into several key folders, each designed for 
 - **[Assets](vault-template/06-Assets/+%20About%20Assets.md):** A place to store resources like images or audio files that support your notes.
 - **[Home](vault-template/Home.md):** An introductory note, serving as the central hub for navigation and overview of the vault.
 
+# Templates
+the following are the current note templates, basically non-blank .md notes, to serve as a blueprint for new notes.
+* [Card](vault-template\05-Templates\Card.md)
+* [Card with inner note](vault-template\05-Templates\Card%20with%20inner%20note.md)  
+* [MOCs and MORCs](vault-template\05-Templates\MOCs%20and%20MORCs.md)  
+
+
 # Usage
 
 - Customize each folder according to your personal or professional needs.
@@ -59,14 +67,14 @@ This template is a guideline to help you start building your own personalized di
 To help you get started, some folders contain example notes. These serve as practical note examples of how each folder can be utilized. Feel free to explore these examples to better understand the potential uses of each section.
 
 ## List of note examples
-[Buffers](vault-template\00-Backlog\Buffers.md) (from backlog)  
-[Computer Graphics](vault-template\01-MOCs\Computer%20Graphics.md) (from MOCs)  
-[WebGPU](vault-template\02-MORCs\WebGPU.md) (from MORCs)   
-[wgpu](vault-template\02-MORCs\wgpu.md) (from MORCs)  
-[Github contribution workflow](vault-template\03-Cards\Github%20Contribution%20Workflow.md) (from Cards)  
-[Pipeline](vault-template\03-Cards\Pipeline.md) (from Cards)  
-[Primitive State](vault-template\03-Cards\Primitive%20State.md) (from Cards)  
-[Rust Paths](vault-template\03-Cards\Rust%20Paths.md) (from Cards)
+* [Buffers](vault-template\00-Backlog\Buffers.md) (from backlog)  
+* [Computer Graphics](vault-template\01-MOCs\Computer%20Graphics.md) (from MOCs)  
+* [WebGPU](vault-template\02-MORCs\WebGPU.md) (from MORCs)   
+* [wgpu](vault-template\02-MORCs\wgpu.md) (from MORCs)  
+* [Github contribution workflow](vault-template\03-Cards\Github%20Contribution%20Workflow.md) (from Cards)  
+* [Pipeline](vault-template\03-Cards\Pipeline.md) (from Cards)  
+* [Primitive State](vault-template\03-Cards\Primitive%20State.md) (from Cards)  
+* [Rust Paths](vault-template\03-Cards\Rust%20Paths.md) (from Cards)
 
 
 
