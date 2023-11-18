@@ -44,7 +44,7 @@ To help you get started, some folders contain example notes. These serve as prac
 This template organizes information into several key folders, each designed for a specific type of content:
 
 - **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further categorization.
-- **MOCs (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
+- **[MOCs]() (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
 - **MORCs (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
 - **Cards:** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
 - **Diary:** For daily reflections or journal entries.
