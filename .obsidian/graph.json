@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#readme -path:05-Templates  ",
+  "search": "-tag:#readme -path:05-Templates  -file:README",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.24895664881377078,
+  "scale": 0.5794027058320836,
   "close": false
 }

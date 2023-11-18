@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Templates/Card.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Templates/Card.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Templates/Card.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Templates/Card.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,12 +150,13 @@
   "active": "afd4e73454312394",
   "lastOpenFiles": [
     "README.md",
+    "Home.md",
+    "05-Templates/Card.md",
     "test/README.md",
     "test",
     "my-obsidian-template/README.md",
     "my-obsidian-template",
     "05-Templates/Card with inner note.md",
-    "05-Templates/Card.md",
     "05-Templates/MOCs and MORCs.md",
     "06-Assets/+ About Assets.md",
     "05-Templates/+ About Templates.md",
@@ -168,7 +169,6 @@
     "02-MORCs/WebGPU.md",
     "01-MOCs/Computer Graphics.md",
     "00-Backlog/Buffers.md",
-    "Home.md",
     "00-Backlog/+ About Backlog.md",
     "Rust Modules.md",
     "05-Templates/base note template.md",
