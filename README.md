@@ -42,8 +42,8 @@ To help you get started, some folders contain example notes. These serve as prac
 
 ## List of note examples
 [Buffers](vault-template\00-Backlog\Buffers.md) (from blacklog)  
-[Computer Graphics](vault-template\01-MOCs\Computer%20Graphics.md) (from MOCs) 
-[WebGPU](vault-template\02-MORCs\WebGPU.md) (from MORCs)  
+[Computer Graphics](vault-template\01-MOCs\Computer%20Graphics.md) (from MOCs)  
+[WebGPU](vault-template\02-MORCs\WebGPU.md) (from MORCs)   
 [wgpu](vault-template\02-MORCs\wgpu.md) (from MORCs)  
 [Github contribution workflow](vault-template\03-Cards\Github%20Contribution%20Workflow.md) (from Cards)  
 [Pipeline](vault-template\03-Cards\Pipeline.md) (from Cards)  
