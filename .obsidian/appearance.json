@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "LYT Mode",
+  "theme": "obsidian",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "indicators"
+  ]
+}

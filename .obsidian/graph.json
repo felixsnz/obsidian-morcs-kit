@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#readme -path:05-Templates  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00-Backlog  ",
+      "color": {
+        "a": 1,
+        "rgb": 11917779
+      }
+    },
+    {
+      "query": "path:01-MOCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 4013496
+      }
+    },
+    {
+      "query": "path:02-MORCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 4045371
+      }
+    },
+    {
+      "query": "path:03-Cards  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776064
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.73333333333333,
+  "lineSizeMultiplier": 1.19739583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 9.6875,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.24895664881377078,
+  "close": false
+}

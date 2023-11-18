@@ -1,0 +1,10 @@
+{
+  "optimize-canvas-connections:optimize-preserve-axes-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

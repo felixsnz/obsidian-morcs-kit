@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
+  "focusNewTab": true,
+  "showInlineTitle": false,
+  "newFileFolderPath": "00-Backlog",
+  "livePreview": true
+}
