@@ -50,7 +50,7 @@ This template organizes information into several key folders, each designed for 
 
 # Templates
 the following are the current note templates, basically non-blank .md notes, to serve as a blueprint for new notes.
-* [Card](vault-template\05-Templates\Card.md)
+* [Card](vault-template/05-Templates/Card.md)
 * [Card with inner note](vault-template\05-Templates\Card%20with%20inner%20note.md)  
 * [MOCs and MORCs](vault-template\05-Templates\MOCs%20and%20MORCs.md)  
 
