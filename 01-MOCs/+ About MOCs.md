@@ -3,7 +3,7 @@ tags:
   - readme
 ---
 # MOCs
+In folder **01-MOCs** is to store all the MOCs (Maps of Content).
 
-In the folder **01-MOCs** would go all the MOCs (Maps of Content).
-
-this folder is very important because it allows you to see all the [[MOC|MOCs]] in a broken down way and offers an orderly perspective, of the central points of your [[Second Brain]]
+## What is a MOC
+In this template context, a **MOC** is the central point of a Map of content, basically big topics of interest, that will serve as a reference points to understand better what are those big topics that prevail in your second brain and as a starting point for subsequent more specific topics ([[+ About MORCs|MORCs]]).
