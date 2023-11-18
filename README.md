@@ -15,6 +15,10 @@ This template organizes information into several key folders, each designed for 
 - **Assets:** A place to store resources like images or audio files that support your notes.
 - **Home:** An introductory note, serving as the central hub for navigation and overview of the vault.
 
+## Sample Content
+
+To help you get started, some folders contain example notes. These serve as practical illustrations of how each folder can be utilized. Feel free to explore these examples to better understand the potential uses of each section.
+
 ## How to Use This Template
 
 - Customize each folder according to your personal or professional needs.
