@@ -1,7 +1,20 @@
-# Obsidian Vault Template - "MORCs Template"
+# Index
+
+- [What is Obsidian?](#what-is-obsidian)
+- [Project Description](#project-description)
+- [Usage](#usage)
+- [Examples](#Examples)
+- [Vault Structure](#vault-structure)
+
+---
+
+# What is Obsidian? 
+Obsidian mirrors the non-linear nature of human thought, facilitating a seamless flow of ideas and connections. It's a space where your notes evolve organically, allowing you to weave a rich tapestry of knowledge that reflects your own understanding and insights.
+
+# Project Description
 Welcome to the "MORCs Obsidian Template", a structured starting point for organizing your thoughts, knowledge, and ideas within Obsidian.
 
-## Inspiration for this template
+## Inspiration
 This template is inspired from [Chris Pomeroy](https://www.youtube.com/@Peepnbrick/featured)'s video ["How to achieve more while studying less - Obsidian & Conceptual Notes"](https://www.youtube.com/watch?v=MYJsGksojms&t=864s&ab_channel=ChrisPomeroy) and [Nick Milo](https://www.linkingyourthinking.com/download-lyt-kit)'s [LYT (Linking Your Thinking)](https://www.linkingyourthinking.com/download-lyt-kit) template.
 It aims to blend the best of both approaches: the structured organization of Nick’s vault and the focus on concepts (in this case, Cards) from Chris.
 
@@ -16,7 +29,18 @@ I realized there was a need for an intermediate concept, which I call "MORC" (**
 ## Why MORCs?
 You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your stack of technologies for example, that you will end up putting into practice, and who knows what relationships you may find between them.
 
-## Vault Structure
+# Usage
+
+- Customize each folder according to your personal or professional needs.
+- Use the Home note to set your objectives and outline the structure of your vault.
+- Feel free to add, remove, or modify any part of this template to better suit your individual workflow.
+
+This template is a guideline to help you start building your own personalized digital knowledge base in Obsidian. Explore and adapt it to create a system that works best for you.
+
+# Examples
+To help you get started, some folders contain example notes. These serve as practical illustrations of how each folder can be utilized. Feel free to explore these examples to better understand the potential uses of each section.
+
+# Vault Structure
 This template organizes information into several key folders, each designed for a specific type of content:
 
 - **Backlog:** Default folder for newly created notes, awaiting further categorization.
@@ -28,14 +52,5 @@ This template organizes information into several key folders, each designed for 
 - **Assets:** A place to store resources like images or audio files that support your notes.
 - **Home:** An introductory note, serving as the central hub for navigation and overview of the vault.
 
-## Sample Content
 
-To help you get started, some folders contain example notes. These serve as practical illustrations of how each folder can be utilized. Feel free to explore these examples to better understand the potential uses of each section.
 
-## How to Use This Template
-
-- Customize each folder according to your personal or professional needs.
-- Use the Home note to set your objectives and outline the structure of your vault.
-- Feel free to add, remove, or modify any part of this template to better suit your individual workflow.
-
-This template is a guideline to help you start building your own personalized digital knowledge base in Obsidian. Explore and adapt it to create a system that works best for you.
