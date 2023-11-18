@@ -11,7 +11,7 @@ I found the breadth of Nick's template a bit too extensive for my use, as I beli
 This template adopts two key components from Nick's approach: the MOCs and Cards. MOCs (Maps of Content) are used as a broad content atlas, while Cards are more granular pieces of information like concept notes, atomic notes, reviews, etc.
 
 ## Introducing MORCs
-I realized there was a need for an intermediate concept, which I call "MORC" (**Middle-of-the-road concept**). MORCs are essentially more specific than MOCs but broader than a single concept (Card). For example, under my broad interests like Computer Graphics and Game Development, a MORC related to Computer Graphics could be a technology like WebGPU, which is significant within the scope of computer graphics but not as broad as a larger topic (MOC)
+I realized there was a need for an intermediate concept, which I call "MORC" (**Middle-of-the-road concept**). MORCs are essentially more specific than MOCs but broader than a single concept (Card). For example, under my broad interests like Computer Graphics and Game Development, a MORC related to Computer Graphics could be a technology like [WebGPU](https://www.w3.org/TR/webgpu/), which is significant within the scope of computer graphics but not as broad as a larger topic (MOC)
 
 ## Why MORCs?
 You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your stack of technologies for example, that you will end up putting into practice, and who knows what relationships you may find between them.
