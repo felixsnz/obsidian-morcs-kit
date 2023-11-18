@@ -149,8 +149,9 @@
   },
   "active": "afd4e73454312394",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
+    "03-Cards/Primitive State.md",
+    "README.md",
     "05-Templates/Card.md",
     "test/README.md",
     "test",
@@ -162,7 +163,6 @@
     "05-Templates/+ About Templates.md",
     "04-Diary/+ About Diary.md",
     "03-Cards/Rust Paths.md",
-    "03-Cards/Primitive State.md",
     "03-Cards/Pipeline.md",
     "03-Cards/Github Contribution Workflow.md",
     "02-MORCs/wgpu.md",

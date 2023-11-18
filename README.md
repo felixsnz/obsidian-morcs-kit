@@ -1,9 +1,20 @@
-# Obsidian Vault Template - "My Second Brain"
+# Obsidian Vault Template - "MORCs Template"
+Welcome to the "MORCs Obsidian Template", a structured starting point for organizing your thoughts, knowledge, and ideas within Obsidian.
 
-Welcome to the "My Second Brain" Obsidian vault template, a structured starting point for organizing your thoughts, knowledge, and ideas within Obsidian.
+## Inspiration for this template
+This template draws inspiration from [Chris Pomeroy](https://www.youtube.com/@Peepnbrick/featured)'s video ["How to achieve more while studying less - Obsidian & Conceptual Notes"](https://www.youtube.com/watch?v=MYJsGksojms&t=864s&ab_channel=ChrisPomeroy) and [Nick Milo](https://www.linkingyourthinking.com/download-lyt-kit)'s [LYT (Linking Your Thinking)](https://www.linkingyourthinking.com/download-lyt-kit) template. It aims to blend the best of both approaches: the structured organization of Nick’s vault and the focus on concepts (in this case, Cards) from Chris.
+
+## My Approach to Integration
+I found the breadth of Nick's template a bit too extensive for my use, as I believe Obsidian excels primarily as a note-taking and learning tool. For other purposes, like planning or management, I prefer to use Notion. Similarly, while Chris's freeform approach to note-taking initially seemed appealing, I realized the need for some structure to prevent information from becoming unmanageable over time.
+
+My template adopts two key components from Nick's approach: the MOCs and Cards. MOCs (Maps of Content) are used as a broad content atlas, while Cards are more granular pieces of information like concept notes, atomic notes, reviews, etc.
+
+## Introducing MORCs
+However, I realized there was a need for an intermediate concept, which I call "MORC" (**Middle-of-the-road concept**). MORCs are essentially more specific than MOCs but broader than a single concept (Card). For example, under my broad interests like Computer Graphics and Game Development, a MORC related to Computer Graphics could be a technology like WebGPU, which is significant within the scope of computer graphics but not as broad as a larger topic (MOC)
+
+The introduction of MORCs provides a clearer and broader focus, allowing us to identify and organize specific themes within our second brain more effectively.
 
 ## Vault Structure
-
 This template organizes information into several key folders, each designed for a specific type of content:
 
 - **Backlog:** Default folder for newly created notes, awaiting further categorization.
