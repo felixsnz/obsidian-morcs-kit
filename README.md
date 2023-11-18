@@ -2,9 +2,15 @@
 
 - [What is Obsidian?](#what-is-obsidian)
 - [Project Description](#project-description)
+	- [Inspiration](#inspiration)
+	- [Integration Approach](#integration-approach)
+	- [Introducing MORCs](#introducing-morcs)
+	- [Why MORCs?](#why-morcs)
+- [Vault Structure](#vault-structure)
 - [Usage](#usage)
 - [Examples](#Examples)
-- [Vault Structure](#vault-structure)
+	- [List of note examples](#list-of-note-examples)
+
 
 ---
 
@@ -29,6 +35,18 @@ I realized there was a need for an intermediate concept, which I call "MORC" (**
 ## Why MORCs?
 You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your stack of technologies for example, that you will end up putting into practice, and who knows what relationships you may find between them.
 
+# Vault Structure
+This template organizes information into several key folders, each designed for a specific type of content:
+
+- **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further categorization.
+- **[MOCs](vault-template/01-MOCs/+%20About%20MOCs.md) (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
+- **[MORCs](vault-template/02-MORCs/+%20About%20MORCs.md) (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
+- **[Cards](vault-template/03-Cards/+%20About%20Cards.md):** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
+- **[Diary](vault-template/04-Diary/+%20About%20Diary.md):** For daily reflections or journal entries.
+- **[Templates](vault-template/05-Templates/+%20About%20Templates.md):** Ready-to-use templates for various types of notes.
+- **[Assets](vault-template/06-Assets/+%20About%20Assets.md):** A place to store resources like images or audio files that support your notes.
+- **[Home](vault-template/Home.md):** An introductory note, serving as the central hub for navigation and overview of the vault.
+
 # Usage
 
 - Customize each folder according to your personal or professional needs.
@@ -41,7 +59,7 @@ This template is a guideline to help you start building your own personalized di
 To help you get started, some folders contain example notes. These serve as practical note examples of how each folder can be utilized. Feel free to explore these examples to better understand the potential uses of each section.
 
 ## List of note examples
-[Buffers](vault-template\00-Backlog\Buffers.md) (from blacklog)  
+[Buffers](vault-template\00-Backlog\Buffers.md) (from backlog)  
 [Computer Graphics](vault-template\01-MOCs\Computer%20Graphics.md) (from MOCs)  
 [WebGPU](vault-template\02-MORCs\WebGPU.md) (from MORCs)   
 [wgpu](vault-template\02-MORCs\wgpu.md) (from MORCs)  
@@ -51,17 +69,6 @@ To help you get started, some folders contain example notes. These serve as prac
 [Rust Paths](vault-template\03-Cards\Rust%20Paths.md) (from Cards)
 
 
-# Vault Structure
-This template organizes information into several key folders, each designed for a specific type of content:
-
-- **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further categorization.
-- **[MOCs](vault-template/01-MOCs/+%20About%20MOCs.md) (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
-- **[MORCs](vault-template/02-MORCs/+%20About%20MORCs.md) (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
-- **[Cards](vault-template/03-Cards/+%20About%20Cards.md):** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
-- **[Diary](vault-template/04-Diary/+%20About%20Diary.md):** For daily reflections or journal entries.
-- **[Templates](vault-template/05-Templates/+%20About%20Templates.md):** Ready-to-use templates for various types of notes.
-- **[Assets](vault-template/06-Assets/+%20About%20Assets.md):** A place to store resources like images or audio files that support your notes.
-- **[Home](vault-template/Home.md):** An introductory note, serving as the central hub for navigation and overview of the vault.
 
 
 
