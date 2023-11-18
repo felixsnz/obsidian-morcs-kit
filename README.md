@@ -1,6 +1,5 @@
 # Index
 
-- [What is Obsidian?](#what-is-obsidian)
 - [Project Description](#project-description)
 	- [Inspiration](#inspiration)
 	- [Integration Approach](#integration-approach)
@@ -14,14 +13,9 @@
 - [Examples](#Examples)
 	- [List of note examples](#list-of-note-examples)
 
-
 ---
-
-# What is Obsidian? 
-[Obsidian](https://obsidian.md/) mirrors the non-linear nature of human thought, facilitating a seamless flow of ideas and connections. It's a space where your notes evolve organically, allowing you to weave a rich tapestry of knowledge that reflects your own understanding and insights.
-
 # Project Description
-Welcome to the "MORCs Obsidian Template", a structured starting point for organizing your thoughts, knowledge, and ideas within Obsidian.
+Welcome to the MORCs Obsidian Template! a structured starting point for organizing your thoughts, knowledge, and ideas within [Obsidian](https://obsidian.md/).
 
 ## Inspiration
 This template is inspired from [Chris Pomeroy](https://www.youtube.com/@Peepnbrick/featured)'s video ["How to achieve more while studying less - Obsidian & Conceptual Notes"](https://www.youtube.com/watch?v=MYJsGksojms&t=864s&ab_channel=ChrisPomeroy) and [Nick Milo](https://www.linkingyourthinking.com/download-lyt-kit)'s [LYT (Linking Your Thinking)](https://www.linkingyourthinking.com/download-lyt-kit) template.
