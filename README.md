@@ -9,7 +9,7 @@
 ---
 
 # What is Obsidian? 
-Obsidian mirrors the non-linear nature of human thought, facilitating a seamless flow of ideas and connections. It's a space where your notes evolve organically, allowing you to weave a rich tapestry of knowledge that reflects your own understanding and insights.
+[Obsidian](https://obsidian.md/) mirrors the non-linear nature of human thought, facilitating a seamless flow of ideas and connections. It's a space where your notes evolve organically, allowing you to weave a rich tapestry of knowledge that reflects your own understanding and insights.
 
 # Project Description
 Welcome to the "MORCs Obsidian Template", a structured starting point for organizing your thoughts, knowledge, and ideas within Obsidian.
@@ -43,7 +43,7 @@ To help you get started, some folders contain example notes. These serve as prac
 # Vault Structure
 This template organizes information into several key folders, each designed for a specific type of content:
 
-- **Backlog:** Default folder for newly created notes, awaiting further categorization.
+- **[Backlog](vault-template/00-Backlog/+%20About%20Backlog):** Default folder for newly created notes, awaiting further categorization.
 - **MOCs (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
 - **MORCs (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
 - **Cards:** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
