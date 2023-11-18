@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03-Cards/Primitive State.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03-Cards/Primitive State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03-Cards/Primitive State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03-Cards/Primitive State.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "afd4e73454312394",
   "lastOpenFiles": [
-    "02-MORCs/+ About MORCs.md",
+    "vault-template",
+    "New folder",
+    "03-Cards/Pipeline.md",
     "README.md",
+    "02-MORCs/+ About MORCs.md",
     "04-Diary/+ About Diary.md",
     "03-Cards/Rust Paths.md",
     "03-Cards/Primitive State.md",
-    "03-Cards/Pipeline.md",
     "01-MOCs/Computer Graphics.md",
     "02-MORCs/wgpu.md",
     "02-MORCs/WebGPU.md",
@@ -176,7 +178,6 @@
     "00-Backlog/Buffers.md",
     "Rust Modules.md",
     "05-Templates/base note template.md",
-    "03-Cards/Rust Modules.md",
     "00-Backlog/each frame in wgpu app.canvas",
     "00-Backlog/wgpu initial configuration.canvas",
     "06-Assets/Pasted image 20231111170651.png",
@@ -187,7 +188,6 @@
     "03-Spaces/Python Developer",
     "03-Spaces/Backend Developer/MOCs",
     "03-Spaces/Backend Developer/MOCs",
-    "03-Spaces/Backend Developer",
-    "03-Spaces/Cubo Devs/Projects"
+    "03-Spaces/Backend Developer"
   ]
 }
