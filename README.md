@@ -6,6 +6,9 @@
 	- [Introducing MORCs](#introducing-morcs)
 	- [Why MORCs?](#why-morcs)
 - [Vault Structure](#vault-structure)
+	- [Main Folders](#main-folders)
+	- [Complement Folders](#complement-folders)
+	- [Files](#files)
 - [Who is this template for?](#who-is-this-template-for)
 - [Who is this template NOT for?](#who-is-this-template-not-for)
 - [Templates](#templates)
@@ -30,19 +33,25 @@ This template adopts two key components from Nick's approach: the MOCs and Cards
 I realized there was a need for an intermediate concept, which I call "MORC" (**Middle-of-the-road concept**). MORCs are essentially more specific than MOCs but broader than a single concept (Card). For example, under my broad interests like Computer Graphics and Game Development, a MORC related to Computer Graphics could be a technology like [WebGPU](https://www.w3.org/TR/webgpu/), which is significant within the scope of computer graphics but not as broad as a larger topic (MOC)
 
 ## Why MORCs?
-You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your stack of technologies for example, that you will end up putting into practice, and who knows what relationships you may find between them.
+You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your tech stack for example, that you will end up putting into practice, and who knows what relationships you may find between them.
 
 # Vault Structure
-This template organizes information into several key folders, each designed for a specific type of content:
+This template organizes your knowledge into 3 main key folders, and others that serve as complement. It also has an entry point for your second brain, the "Home" note.
 
-- **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further categorization.
+## Main Folders
 - **[MOCs](vault-template/01-MOCs/+%20About%20MOCs.md) (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
 - **[MORCs](vault-template/02-MORCs/+%20About%20MORCs.md) (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
 - **[Cards](vault-template/03-Cards/+%20About%20Cards.md):** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
+
+## Complement Folders
+- **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further polish and categorization.
 - **[Diary](vault-template/04-Diary/+%20About%20Diary.md):** For daily reflections or journal entries.
 - **[Templates](vault-template/05-Templates/+%20About%20Templates.md):** Ready-to-use templates for various types of notes.
 - **[Assets](vault-template/06-Assets/+%20About%20Assets.md):** A place to store resources like images or audio files that support your notes.
+
+## Files
 - **[Home](vault-template/Home.md):** An introductory note, serving as the central hub for navigation and overview of the vault.
+
 
 # Who is this template for?
 The 'MORCs' template is ideal for a broad range of users who seek a straightforward and simple approach to organize their Obsidian vault as a Second Brain. It is designed for storing all kind of information and suits for those focusing on learning and clarity through atomic note-taking, It is particularly beneficial for visualizing the second brain using three types of notes: MOC, MORC, and Cards.
