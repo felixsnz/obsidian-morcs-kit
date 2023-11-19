@@ -1,3 +1,8 @@
+
+![](https://badgen.net/github/watchers/fezro/morcs-template?icon=github) 
+![](https://badgen.net/github/stars/fezro/morcs-template?icon=github) 
+![](https://badgen.net/github/license/fezro/morcs-template?icon=github)
+
 # Index
 
 - [Project Description](#project-description)
