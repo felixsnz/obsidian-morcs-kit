@@ -8,7 +8,7 @@
 - [Vault Structure](#vault-structure)
 	- [Main Folders](#main-folders)
 	- [Complement Folders](#complement-folders)
-	- [Files](#files)
+	- [Files](#Files)
 - [Who is this template for?](#who-is-this-template-for)
 - [Who is this template NOT for?](#who-is-this-template-not-for)
 - [Templates](#templates)
