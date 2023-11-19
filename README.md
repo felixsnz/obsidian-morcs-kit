@@ -68,7 +68,7 @@ the following are the current note templates, basically non-blank .md notes, to 
 
 # Usage
 - Customize each folder according to your personal or professional needs.
-- Use the home as an overview to understand the overall structure and to access different sections efficiently.
+- Use the Home as an overview to understand the overall structure and to access different sections efficiently.
 - Feel free to add, remove, or modify any part of this template to better suit your individual workflow.
 
 This template is a guideline to help you start building your own personalized digital knowledge base in Obsidian. Explore and adapt it to create a system that works best for you.
