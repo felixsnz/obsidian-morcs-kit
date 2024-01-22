@@ -6,6 +6,8 @@
 	- [Integration Approach](#integration-approach)
 	- [Introducing MORCs](#introducing-morcs)
 	- [Why MORCs?](#why-morcs)
+	- [Beyond MORCs](#beyond-morcs)
+
 - [Vault Structure](#vault-structure)
 	- [Main Folders](#main-folders)
 	- [Complement Folders](#complement-folders)
@@ -36,14 +38,17 @@ I realized there was a need for an intermediate concept, which I call "MORC" (**
 ## Why MORCs?
 You could perfectly organize your second brain without **MORCs**, but they offer a broader and more specific vision of your topics of interest, those that will be part of your tech stack for example, that you will end up putting into practice, and who knows what relationships you may find between them.
 
+## Beyond MORCs
+At this point, i consider "morcs" is just the name of this kit because it was an innovative concept i created to better organize my knowledge, but more than that, its main goal is to create the best fit way to organize knowledge in order to improve my learning process.
+
 # Vault Structure
-This kit organizes your knowledge into 3 main key folders, and others that serve as complement. It also has an entry point for your second brain, the "Home" note.
+This kit organizes your knowledge into 4 main key folders, and others that serve as complement. It also has an entry point for your second brain, the "Home" note.
 
 ## Main Folders
 - **[MOCs](vault-template/01-MOCs/+%20About%20MOCs.md) (Maps of Content):** Broad themes that serve as major reference points in your knowledge network.
 - **[MORCs](vault-template/02-MORCs/+%20About%20MORCs.md) (Middle of the Road Concepts):** Not as expansive as MOCs, but more detailed than simple notes.
 - **[Cards](vault-template/03-Cards/+%20About%20Cards.md):** Contains atomic notes - distinct, clear concepts, ideas, reviews, recipes, etc.
-
+- **[Insights](vault-template/04-Insights/+%20About%20Insights.md):** Contains all your obsidian canvases.
 ## Complement Folders
 - **[Backlog](vault-template/00-Backlog/+%20About%20Backlog.md):** Default folder for newly created notes, awaiting further polish and categorization.
 - **[Diary](vault-template/04-Diary/+%20About%20Diary.md):** For daily reflections or journal entries.
